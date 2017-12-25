@@ -1,0 +1,3 @@
+Run make in the project directory to compile
+Edit the #if directive in main.cc to choose between the dense and sparse graphs
+The executable is named 'maxBWPath'
